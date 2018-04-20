@@ -67,9 +67,7 @@ dependencies:
 - wcwidth=0.1.7
 - werkzeug=0.14.1
 - wheel=0.31.0
-- win_inet_pton=1.0.1
 - wincertstore=0.2
-- zlib=1.2.11=h8395fce_2
 - pip:
   - ipython-genutils==0.2.0
   - jupyter-client==5.2.3
